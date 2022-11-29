@@ -9,7 +9,7 @@ HOST-SUFFIX,dl*.app.gtja.com, reject
 # > 苏宁  新人专享弹窗
 HOST-SUFFIX,luckman.suning.com, reject
 # > 中国移动（倒计时还在）
-HOST-SUFFIX,res.app.coc.10086.cn, reject
+#HOST-SUFFIX,res.app.coc.10086.cn, reject
 # > 光大银行阳光惠生活
 host-keyword, talk.bz.getui.com, reject
 # > 民生银行
