@@ -2,14 +2,7 @@
 # > 某些APP要清除缓存或者重新安装APP，拦截广告才会生效！  
 # > 更新时间  2022.11.29
 # > */  
-# > 央视频     
-HOST-SUFFIX,cdn.cmgadx.com, reject
-# > 国泰君安君弘
-HOST-SUFFIX,dl*.app.gtja.com, reject
-# > 苏宁  新人专享弹窗
-HOST-SUFFIX,luckman.suning.com, reject
-# > 中国移动（倒计时还在）
-HOST-SUFFIX,res.app.coc.10086.cn, reject
+
 # > 光大银行阳光惠生活
 host-keyword, talk.bz.getui.com, reject
 # > 民生银行
@@ -163,8 +156,6 @@ HOST-SUFFIX,v.gdt.qq.com, reject
 # > 小米
 HOST,data.mistat.xiaomi.com, reject
 HOST,tracking.intl.miui.com, reject
-# > 小米商城开屏广告
-HOST,api.m.mi.com, reject
 # > TalkingData
 HOST-SUFFIX,cpatrk.net, reject
 # > 天神
