@@ -2,6 +2,10 @@
 # > 某些APP要清除缓存或者重新安装APP，拦截广告才会生效！  
 # > 更新时间  2022.11.05
 # > */  
+# > 央视频     
+HOST-SUFFIX,cdn.cmgadx.com, reject
+# > 国泰君安君弘
+HOST-SUFFIX,dl*.app.gtja.com, reject
 # > 苏宁  新人专享弹窗
 HOST-SUFFIX,luckman.suning.com, reject
 # > 中国移动（倒计时还在）
